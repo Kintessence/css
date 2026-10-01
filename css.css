@@ -113,7 +113,9 @@ section .titulo {}
     overflow: hidden;
 
 }
-
+.aic {
+  align-items: center;
+}
 .jcfs {
 
     justify-content: flex-start;
