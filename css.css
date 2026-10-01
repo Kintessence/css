@@ -1808,6 +1808,18 @@ section .titulo {}
 
 }
 
+.fs-3 {
+
+    font-size: 3em;
+
+}
+
+.fs-4 {
+
+    font-size: 4em;
+
+}
+
 .mw {
 
     max-width: none;
